@@ -120,27 +120,55 @@ h3 {
 .separator {
     margin: 0px 26px;
 }
+
 .recent-posts__article {
     font-family: Roboto;
-font-style: normal;
-font-weight: bold;
-font-size: 26px;
-line-height: 38px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 38px;
 }
+
 .recent-posts__articles-content {
 
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 23px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
 
 }
 
 .recent-posts {
     margin-top: 114px;
-   
+
 }
 
- .recent-posts__link {
-     color: #00A8CC;
- }
+.recent-posts__link {
+    color: #00A8CC;
+}
+
+
+
+.title-category {
+    font-size: 22px;
+    color: #21243D;
+    margin-bottom: 44px ;
+}
+
+.works {
+    display: flex;
+    margin-top:66px ;
+}
+
+.work__img {
+    width: 246px;
+    height: 180px;
+}
+.work__day {
+    display: inline-block;
+    float: left;
+}
+.featured {
+    margin-top: 32px;
+    margin-bottom: 48px;
+}
