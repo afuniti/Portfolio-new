@@ -151,24 +151,53 @@ h3 {
 
 .title-category {
     font-size: 22px;
-    color: #21243D;
-    margin-bottom: 44px ;
+    margin-bottom: 44px;
+    
+
 }
 
 .works {
     display: flex;
-    margin-top:66px ;
+    margin-top: 66px;
 }
 
 .work__img {
     width: 246px;
     height: 180px;
+    border-radius: 6px;
+    display: inline-block;
+    float: left;
+    margin-right: 26px;
 }
+
 .work__day {
     display: inline-block;
     float: left;
+    width: 60px;
+    height: 25px;
+    left: 410x;
+    top: 1141px;
+    background-color: #142850;
+    border-radius: 16px;
+    color: white;
 }
+
 .featured {
     margin-top: 32px;
     margin-bottom: 48px;
+}
+.work {
+    margin-bottom: 66px;
+}
+.work__category {
+    width: 374px;
+height: 34px;
+left: 498px;
+font-size: 20px;
+line-height: 29px;
+color: #8695A4;
+
+}
+.work__info  {
+    margin-top: 44px;
 }
