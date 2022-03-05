@@ -1,3 +1,3 @@
 # Portfolio203-1
-Богатыренко В. С. <br>
+Аня Фишер. <br>
 https://webdevdelfa.github.io/Portfolio203-1/
