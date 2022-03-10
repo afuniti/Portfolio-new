@@ -1,3 +1,3 @@
 # Portfolio203-1
-Аня Фишер. <br>
-https://afuniti.github.io/Portfolio-new/
+Богатыренко В. С. <br>
+https://webdevdelfa.github.io/Portfolio203-1/
